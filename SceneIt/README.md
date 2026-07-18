@@ -9,7 +9,7 @@
 ---
 ## Screenshots
 
-| Home | Search | Event | Create|
+| Landing | Home | Event | Create|
 |------|--------|-------|-------|
 | <img src="assets/landing.PNG" width="220"> | <img src="assets/home.PNG" width="220"> | <img src="assets/event.PNG" width="220"> | <img src="assets/createEvent.PNG" width="220">
 
