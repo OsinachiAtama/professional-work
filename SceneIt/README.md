@@ -7,6 +7,25 @@
 ![Stack](https://img.shields.io/badge/Stack-React%20Native%20%7C%20Firebase-orange)
 
 ---
+## ScreenShots
+
+### Landing page
+
+![Home Screen](assets/landing.png)
+
+### Home Screen
+
+![Home Screen](assets/home.png)
+
+### Event Page
+
+![Event Page](assets/event.png)
+
+### createEvent Page
+
+![Event Page](assets/createEvent.png)
+
+---
 
 ## Overview
 
