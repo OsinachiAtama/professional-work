@@ -11,7 +11,7 @@
 
 ### Landing page
 
-![Home Screen](assets/landing.png)
+![Landing_page](assets/landing.png)
 
 ### Home Screen
 
@@ -23,7 +23,7 @@
 
 ### createEvent Page
 
-![Event Page](assets/createEvent.png)
+![createEvent_page](assets/createEvent.png)
 
 ---
 
