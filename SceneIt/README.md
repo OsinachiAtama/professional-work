@@ -11,19 +11,19 @@
 
 ### Landing page
 
-![Landing_page](assets/landing.png)
+![Landing_page](assets/landing.PNG)
 
 ### Home Screen
 
-![Home Screen](assets/home.png)
+![Home Screen](assets/home.PNG)
 
 ### Event Page
 
-![Event Page](assets/event.png)
+![Event Page](assets/event.PNG)
 
 ### createEvent Page
 
-![createEvent_page](assets/createEvent.png)
+![createEvent_page](assets/createEvent.PNG)
 
 ---
 
